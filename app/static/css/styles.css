@@ -1,0 +1,11 @@
+body {
+    background-color: #222; /* Dark background color */
+    color: white; /* White text color */
+    font-family: Arial, sans-serif; /* Specify font family */
+    text-align: center; /* Center align text */
+    padding: 50px; /* Add some padding for better visibility */
+}
+
+h1 {
+    font-size: 2.5em; /* Adjust heading font size */
+}

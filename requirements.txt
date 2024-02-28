@@ -1,0 +1,11 @@
+# desired packages to run to-do application
+
+#To bootstrap flask application
+Flask~=3.0.2
+#To connect with Mongo DB
+Flask-PyMongo
+#To hash the passwords
+bcrypt~=4.1.2
+#To encrypt and decrypt
+PyJWT~=2.8.0
+pymongo~=4.6.2
