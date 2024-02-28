@@ -36,6 +36,7 @@ This guide will walk you through setting up a Flask application with basic route
     ```
     pip install -r requirements.txt
     ```
+    Note: upgrade pip if you are facing any issues in installing the packages
 
 4. **Set Environment Variables:**
 Before running the Flask application, make sure to set the necessary environment variables mentioned in `config.py`. For example:
